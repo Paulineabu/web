@@ -11,7 +11,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css" />
   <script defer src="assets/js/main.js"></script>
-</head>
+  <script defer src="assets/js/articles.js"></script>
+  <script src="assets/js/config.js"></script>\n  <script defer src="assets/js/ga.js"></script>\n</head>
 
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
@@ -54,72 +55,27 @@
 
     <section class="section">
       <div class="container">
-        <div class="list">
-          <div class="list-main">
+        <section class="section">
+      <div class="container">
+        <div class="filterbar" aria-label="Filter articles">
+          <input id="filterQ" type="search" placeholder="Search articles" aria-label="Search articles" />
+          <select id="filterCategory" aria-label="Filter by category"></select>
+          <select id="filterTag" aria-label="Filter by tag"></select>
+        </div>
 
-            <article class="article-card">
-              <a href="articles/starting-with-safety.html">
-                <div class="article-meta">
-                  <span class="pill">Patient safety</span>
-                  <span>6–8 min read</span>
-                  <span>Updated: <span class="muted">2026</span></span>
-                </div>
-                <h2 class="article-title">Starting with Safety: how to build a learning culture that clinicians trust</h2>
-                <p class="article-excerpt">A practical approach to moving from incident reporting to real improvement — with feedback loops staff actually feel.</p>
-              </a>
-            </article>
+        <div id="articlesList" class="article-grid" aria-live="polite"></div>
 
-            <article class="article-card">
-              <a href="articles/telemedicine-governance-basics.html">
-                <div class="article-meta">
-                  <span class="pill">Digital health</span>
-                  <span>6–8 min read</span>
-                  <span>Updated: <span class="muted">2026</span></span>
-                </div>
-                <h2 class="article-title">Telemedicine governance basics: triage, escalation, auditability and confidentiality</h2>
-                <p class="article-excerpt">Remote care magnifies risk and documentation needs. Here’s how to keep pathways safe, human and defensible.</p>
-              </a>
-            </article>
-
-            <article class="article-card">
-              <a href="articles/qiplan-that-sticks.html">
-                <div class="article-meta">
-                  <span class="pill">Quality improvement</span>
-                  <span>5–7 min read</span>
-                  <span>Updated: <span class="muted">2026</span></span>
-                </div>
-                <h2 class="article-title">A QI plan that sticks: from good intentions to measurable change</h2>
-                <p class="article-excerpt">What makes a QI plan actionable: ownership, small tests of change, measurement that matters, and honest reporting.</p>
-              </a>
-            </article>
-
+        <div class="cta" style="padding-top:16px;">
+          <div class="cta-box">
+            <div>
+              <h2>Writing, speaking, collaboration</h2>
+              <p class="muted">Open to professional opportunities, improvement projects, and peer learning.</p>
+            </div>
+            <div class="cta-actions">
+              <a class="btn" href="contact.html">Contact</a>
+              <a class="btn ghost" href="https://www.linkedin.com/in/pauline-abu-50bb0a27b/" target="_blank" rel="noopener">LinkedIn</a>
+            </div>
           </div>
-
-          <aside class="list-side">
-            <div class="article-card">
-              <h3 style="margin:0;">Editorial plan (ideas)</h3>
-              <p class="muted" style="margin:10px 0 0; line-height:1.6;">
-                Optional section to keep the site “alive”. Replace with categories, tags, or a simple archive later.
-              </p>
-              <ul class="ticks" style="margin-top:10px;">
-                <li>How to run a governance meeting that drives action</li>
-                <li>Risk registers that clinicians actually use</li>
-                <li>Confidentiality in digital care: practical habits</li>
-                <li>Restorative practice for healthcare teams (PNA)</li>
-              </ul>
-            </div>
-
-            <div class="article-card">
-              <h3 style="margin:0;">Write with me</h3>
-              <p class="muted" style="margin:10px 0 0; line-height:1.6;">
-                Open to writing, speaking and collaboration opportunities.
-              </p>
-              <div class="btn-row">
-                <a class="btn small" href="contact.html">Contact</a>
-                <a class="btn small ghost" href="https://www.https://www.linkedin.com/in/pauline-abu-50bb0a27b//" target="_blank" rel="noopener">LinkedIn</a>
-              </div>
-            </div>
-          </aside>
         </div>
       </div>
     </section>

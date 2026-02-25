@@ -1,0 +1,171 @@
+[
+  {
+    "title": "AI, telemedicine, and maintaining quality in care",
+    "description": "AI will shape remote care; quality depends on clear triage, escalation, auditability, and human judgement at the right points.",
+    "datePublished": "2025-01-18",
+    "category": "AI and Telemedicine",
+    "tags": [
+      "AI",
+      "Telemedicine",
+      "Clinical governance",
+      "Risk"
+    ],
+    "featuredImage": "https://images.unsplash.com/photo-1581092919535-7146b64eab2a?auto=format&fit=crop&w=2000&q=70",
+    "diagrams": [
+      {
+        "label": "Telemedicine diagram",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Telemedicine_diagram.svg"
+      }
+    ],
+    "author": "Pauline Abu",
+    "readTime": "6 to 8 minutes",
+    "slug": "ai-telemedicine-and-quality",
+    "url": "articles/ai-telemedicine-and-quality.html"
+  },
+  {
+    "title": "Clinical quality improvement is everyone's responsibility",
+    "description": "How quality improvement becomes real when every member of staff owns small, measurable changes that protect patients and support colleagues.",
+    "datePublished": "2023-03-15",
+    "category": "Clinical Quality Improvement",
+    "tags": [
+      "Quality improvement",
+      "Patient safety",
+      "Governance culture",
+      "Teamwork"
+    ],
+    "featuredImage": "https://images.unsplash.com/photo-1580281657527-47f249e8f8a4?auto=format&fit=crop&w=2000&q=70",
+    "diagrams": [
+      {
+        "label": "PDSA cycle diagram",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/PDSA_Cycle.svg"
+      }
+    ],
+    "author": "Pauline Abu",
+    "readTime": "6 to 8 minutes",
+    "slug": "clinical-quality-is-everyones-business",
+    "url": "articles/clinical-quality-is-everyones-business.html"
+  },
+  {
+    "title": "Paediatric care and quality improvement",
+    "description": "Paediatric quality is built on safeguarding, communication, and reliability; families need clarity as much as clinical excellence.",
+    "datePublished": "2024-02-12",
+    "category": "Paediatrics",
+    "tags": [
+      "Paediatric care",
+      "Safeguarding",
+      "Family centred care",
+      "Patient experience"
+    ],
+    "featuredImage": "https://images.unsplash.com/photo-1580281780460-82d277b0e3f3?auto=format&fit=crop&w=2000&q=70",
+    "diagrams": [
+      {
+        "label": "Quality improvement process diagram",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Quality_improvement_process.png"
+      }
+    ],
+    "author": "Pauline Abu",
+    "readTime": "6 to 8 minutes",
+    "slug": "paediatric-care-and-quality",
+    "url": "articles/paediatric-care-and-quality.html"
+  },
+  {
+    "title": "Applying public health thinking inside hospital settings",
+    "description": "Public health is not separate from hospital work; it strengthens prevention, education, safeguarding, and system level improvement.",
+    "datePublished": "2026-04-14",
+    "category": "Public Health",
+    "tags": [
+      "Public health",
+      "Prevention",
+      "Systems thinking",
+      "Health education"
+    ],
+    "featuredImage": "https://images.unsplash.com/photo-1584367367093-8b3a3ecab8f1?auto=format&fit=crop&w=2000&q=70",
+    "diagrams": [],
+    "author": "Pauline Abu",
+    "readTime": "6 to 8 minutes",
+    "slug": "public-health-thinking-in-hospital-settings",
+    "url": "articles/public-health-thinking-in-hospital-settings.html"
+  },
+  {
+    "title": "Restorative practice and professional nurse advocacy",
+    "description": "Staff wellbeing is a patient safety issue; restorative practice helps teams reflect, recover, and maintain safe standards under pressure.",
+    "datePublished": "2025-07-03",
+    "category": "Workforce and Culture",
+    "tags": [
+      "PNA",
+      "Restorative practice",
+      "Psychological safety",
+      "Leadership"
+    ],
+    "featuredImage": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=2000&q=70",
+    "diagrams": [],
+    "author": "Pauline Abu",
+    "readTime": "6 to 8 minutes",
+    "slug": "restorative-practice-and-professional-nurse-advocacy",
+    "url": "articles/restorative-practice-and-professional-nurse-advocacy.html"
+  },
+  {
+    "title": "Making risk management practical in clinical settings",
+    "description": "Risk registers should reflect reality; the aim is not to record risk, but to manage it with ownership, review, and measurable mitigation.",
+    "datePublished": "2025-11-21",
+    "category": "Risk and Governance",
+    "tags": [
+      "Risk register",
+      "Mitigation",
+      "Assurance",
+      "Safety"
+    ],
+    "featuredImage": "https://images.unsplash.com/photo-1584433144859-1fc3ab64a957?auto=format&fit=crop&w=2000&q=70",
+    "diagrams": [],
+    "author": "Pauline Abu",
+    "readTime": "6 to 8 minutes",
+    "slug": "risk-management-made-practical",
+    "url": "articles/risk-management-made-practical.html"
+  },
+  {
+    "title": "What quality improvement really means in practice",
+    "description": "QI is not inspection; it is structured learning that turns everyday problems into measurable, sustainable improvements.",
+    "datePublished": "2023-10-04",
+    "category": "Quality Improvement Fundamentals",
+    "tags": [
+      "QI basics",
+      "Measurement",
+      "PDSA",
+      "Clinical effectiveness"
+    ],
+    "featuredImage": "https://images.unsplash.com/photo-1581594549595-35f6edc7b762?auto=format&fit=crop&w=2000&q=70",
+    "diagrams": [
+      {
+        "label": "Model for Improvement diagram",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Model_for_Improvement.png"
+      }
+    ],
+    "author": "Pauline Abu",
+    "readTime": "6 to 8 minutes",
+    "slug": "what-quality-improvement-means-in-practice",
+    "url": "articles/what-quality-improvement-means-in-practice.html"
+  },
+  {
+    "title": "Working as a nurse in a digital world",
+    "description": "Digital systems can support safe care, or distract from it; the difference is governance, clarity, and good documentation habits.",
+    "datePublished": "2024-09-09",
+    "category": "Digital Nursing",
+    "tags": [
+      "Digital health",
+      "Documentation",
+      "Information governance",
+      "Clinical safety"
+    ],
+    "featuredImage": "https://images.unsplash.com/photo-1581090700227-1e37b190418e?auto=format&fit=crop&w=2000&q=70",
+    "diagrams": [
+      {
+        "label": "Telemedicine diagram",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Telemedicine_diagram.svg"
+      }
+    ],
+    "author": "Pauline Abu",
+    "readTime": "6 to 8 minutes",
+    "slug": "working-as-a-nurse-in-a-digital-world",
+    "url": "articles/working-as-a-nurse-in-a-digital-world.html"
+  }
+]
